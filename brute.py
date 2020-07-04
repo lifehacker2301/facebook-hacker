@@ -131,7 +131,7 @@ def iqbalz(iqbalz_password):
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
         	        print (RR+"#\033[97m Password Target:\033[92m {}").format(iqbalz_password)
         	        print " "
-        	        raw_input(WW+"TEKAN ENTER UNTUK KELUAR...")
+        	        raw_input(WW+"ATTACKING FINISH...")
 			sys.exit(1)
   
   
@@ -173,8 +173,8 @@ def runn_noobs():
               `-/+///..````..://+/-`
                   `.-::////::-.` \033[91;1m
 
-                \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+                \033[90;1mYOUR FUTURE HACKER\033[91;1m
+             Powered by:\033[97m LIFE HACKER
       """
 
 
@@ -182,8 +182,8 @@ def runn_noobs():
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
          print wd+" [#] ID / Username Target\033[97;1m: {}".format(email_target)
-         print wd+" [#] JUmlah Password saat ini\033[97;1m:", len(nuub),'password'
-         print wd+" [#] Tunggu Proses Cracking\033[97;1m.........."
+         print wd+" [#] Testing Password saat ini\033[97;1m:", len(nuub),'password'
+         print wd+" [#] LIFEHACKER Proces Cracking\033[97;1m.........."
          print " "
 
 if __name__=='__main__':
